@@ -1,6 +1,6 @@
 Hey there! 
 
-My name is Tim, I'm currently working on the FreeCodeCamp curriculum. I'm learning HTML, CSS and JS. One day I plan to learn Python and SQL. Aspiring Web Developer looking for the next best step I can take to grow and continue in this process. 
+My name is Tim, I'm currently working on the The Odin Project curriculum. I'm learning HTML, CSS and JS. One day I plan to learn Python and SQL. Also want to get some NodeJS under my belt as well. I'm an aspiring well-rounded Web Developer looking for the next best step I can take to grow and continue in this process. 
 
 <!--
 **tjohnson009/tjohnson009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
