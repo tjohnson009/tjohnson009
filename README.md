@@ -1,6 +1,6 @@
 Hey there! 
 
-My name is Tim, I'm learning HTML, CSS and JS. One day soon I also plan to learn Node.JS and SQL. I'm an aspiring Back End Developer looking for the next best step I can take to grow and continue in this process. 
+My name is Tim, Fun fact: I used to live overseas and had a Coding For Dummies book on my desk for years and hardly opened it. Now I use HTML, CSS and JS to create cool applications.I'm working on improving my skilss with PostgreSQL and one day soon I plan to master Node.JS! PERN stack here I come! I'm an aspiring Back End Developer looking for the next best step I can take to grow and continue improving my application building process. 
 
 <!--
 **tjohnson009/tjohnson009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
