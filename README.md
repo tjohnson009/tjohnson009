@@ -1,4 +1,4 @@
- My name is Tim. I'm a software developer. I'm working through the Odin Project curriculum, building personal projects and looking for meetups in thhe Orlando, FL area. 
+ My name is Tim. I'm a software developer. I'm working through the Odin Project curriculum, building personal projects and looking for meetups in the Orlando, FL area. 
 
 <!--
 **tjohnson009/tjohnson009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
