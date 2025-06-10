@@ -51,16 +51,3 @@ A community-focused **JavaScript** app for finding and hosting couches—built t
 
 - ⚙️ Contribute to my projects or drop feedback via Issues & PRs
 - 💬 Find me at Orlando/Fla dev meetups — let’s collaborate!
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tjohnson009&show_icons=true&theme=radical" alt="Tim's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnson009&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
-Thanks for stopping by—feel free to explore, review, and connect! 😊
