@@ -30,7 +30,7 @@ A Twitter companion build with Pythong and JavaScript that posts tweets of win s
 
 ---
 
-### 🛋️ [couchsurfer](https://github.com/tjohnson009/couchsurfer)
+### 🛋️ [couchsurfer](https://github.com/msrissaxox/couchsurfer)
 A community-focused **JavaScript** app for finding and hosting couches—built to explore local networking and social sharing.
 
 ---
