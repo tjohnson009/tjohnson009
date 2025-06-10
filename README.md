@@ -1,69 +1,66 @@
-# Hi there, I’m Tim 👋
+# 👋 Hi, I'm Tim 
 
-:contentReference[oaicite:1]{index=1}
+**Software Engineer** from **Orlando, FL**. Currently diving into web development through **The Odin Project**, building real-world projects, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
 
 ---
 
-## 🚀 About Me
+## 🚀 Quick Hits
 
-- :contentReference[oaicite:2]{index=2}
-- :contentReference[oaicite:3]{index=3}
-- :contentReference[oaicite:4]{index=4}
-- :contentReference[oaicite:5]{index=5}
+- 🔭 Learning full-stack development (JavaScript & TypeScript, Node.js, Express, React)
+- 💡 Solving everyday problems with creative, code-powered tools
+- 🌱 Exploring Test-Driven Development (TDD) and CI/CD pipelines
+- 🤝 Actively growing the Central Florida coding/networking scene
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🎯 [quoteme](https://github.com/tjohnson009/quoteme)
-:contentReference[oaicite:6]{index=6}
-
-### 👕 [clothescast](https://github.com/tjohnson009/clothescast)
-:contentReference[oaicite:7]{index=7}
-
-### 🔥 Heat Index & Couchsurfer
-:contentReference[oaicite:8]{index=8}
+A clean and minimalist quote saver that can also fetch quotes via API, perfect for a daily dose of inspiration.
 
 ---
 
-## 🛠️ Skills
-
-| Domain              | Technologies                       |
-|---------------------|------------------------------------|
-| Front-End           | :contentReference[oaicite:9]{index=9}     |
-| :contentReference[oaicite:10]{index=10}     | :contentReference[oaicite:11]{index=11}     |
-| Tools & Workflows  | :contentReference[oaicite:12]{index=12} |
-| Future Focus         | :contentReference[oaicite:13]{index=13}       |
+### 👚 [clothescast](https://github.com/tjohnson009/clothescast)
+A **JavaScript** weather-based style assistant that suggests outfits based on current temperature and season – style meets utility.
 
 ---
 
-## 🎯 What’s Next
-
-- :contentReference[oaicite:14]{index=14}  
-- :contentReference[oaicite:15]{index=15}  
-- :contentReference[oaicite:16]{index=16}  
-- :contentReference[oaicite:17]{index=17}
+### ☀️ [Heat_Index](https://github.com/tjohnson009/Heat_Index)
+A Twitter companion build with Pythong and JavaScript that posts tweets of win streaks and losing streaks of NBA teams for sports betting.
 
 ---
 
-## 📫 Let’s Connect!
-
-- :contentReference[oaicite:18]{index=18}  
-- :contentReference[oaicite:19]{index=19}
+### 🛋️ [couchsurfer](https://github.com/tjohnson009/couchsurfer)
+A community-focused **JavaScript** app for finding and hosting couches—built to explore local networking and social sharing.
 
 ---
 
-### 👥 GitHub Stats
+## 🔧 Skills & Tools
 
-<p>
-  <a href="https://github.com/tjohnson009">
-    <img src="https://github-readme-stats.vercel.app/api?username=tjohnson009&show_icons=true&theme=dracula" alt="Tim Johnson’s GitHub stats" />
-  </a>
-  <a href="https://github.com/tjohnson009">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnson009&layout=compact&theme=dracula" alt="Top languages" />
-  </a>
+| 🧠 Domain          | 🛠️ Technologies & Tools            |
+|-------------------|------------------------------------|
+| Front-end         | HTML, CSS, JavaScript, React       |
+| Back-end & APIs   | Node.js, Express, REST APIs, PostgreSQL |
+| TypeScript        | Learning strong typing & patterns  |
+| Dev Practices     | Git, GitHub, VS Code, Chrome DevTools |
+| Road Ahead        | TDD, CI/CD pipelines, React Hooks, AWS  |
+
+---
+
+## 🌍 Get Involved
+
+- ⚙️ Contribute to my projects or drop feedback via Issues & PRs
+- 💬 Find me at Orlando/Fla dev meetups — let’s collaborate!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tjohnson009&show_icons=true&theme=radical" alt="Tim's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjohnson009&layout=compact&theme=radical" alt="Top languages" />
 </p>
 
 ---
 
-:contentReference[oaicite:20]{index=20}
+Thanks for stopping by—feel free to explore, review, and connect! 😊
