@@ -25,7 +25,7 @@ A **JavaScript** weather-based style assistant that suggests outfits based on cu
 
 ---
 
-### ☀️ [Heat_Index](https://github.com/tjohnson009/Heat_Index)
+### ☀️ [Heat_Index](https://github.com/nustinjewman/Heat_Index)
 A Twitter companion build with Pythong and JavaScript that posts tweets of win streaks and losing streaks of NBA teams for sports betting.
 
 ---
