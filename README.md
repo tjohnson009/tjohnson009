@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tim 
 
-**Software Engineer** from **Orlando, FL**. Currently diving into web development through **The Odin Project**, building real-world projects, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
+**Software Engineer** in **Orlando, FL**. Currently diving into web development through **The Odin Project**, building real-world projects, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
 
 ---
 
