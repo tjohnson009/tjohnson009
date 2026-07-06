@@ -9,7 +9,7 @@
 - 🔭 Full-stack development (TypeScript, Node.js, Express, React)
 - 💡 Solving everyday problems with creative tools, AI-empowered
 - 🌱 Building and developing impactful tools for myself and others
-- 🤝 Actively growing the Central Florida coding/networking scene
+- 🤝 Actively growing the Central Florida developer scene
 
 ---
 
