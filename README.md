@@ -1,15 +1,10 @@
 # 👋 Hi, I'm Tim 
 
-**Full Stack Software Developer** in **Orlando, FL**. Currently working for a non-profit developing a globally distributed Android app using Kotlin, building real-world projects in TypeScript, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
-
----
-
-## 🚀 Quick Hits
-
+**Full-Stack Software Developer** in **Orlando, FL**. Currently working for a non-profit developing a globally distributed CRM app, building real-world projects with TypeScript, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
 - 🔭 Full-stack development (TypeScript, Node.js, Express, React)
 - 💡 Solving everyday problems with creative tools, AI-empowered
 - 🌱 Building and developing impactful tools for myself and others
-- 🤝 Actively growing the Central Florida developer scene
+- 🤝 Actively growing the Central Florida developer community
 
 ---
 
@@ -46,14 +41,13 @@ Hackathon project: Acommunity-focused **JavaScript** app for finding and hosting
 
 | 🧠 Domain          | 🛠️ Technologies & Tools            |
 |-------------------|------------------------------------|
-| Front-end         | HTML, CSS, TypeScript, React, Kotlin       |
-| Back-end & APIs   | Node.js, Express, REST APIs, PostgreSQL/SQLite |
-| TypeScript        | Learning strong typing & patterns  |
-| Dev Practices     | Git, GitHub, VS Code, Chrome DevTools, Android Studio, Slack Circuit |
+| Front-end         | HTML, Tailwind CSS, TypeScript, React, Kotlin, Next.js, Jetpack Commpose |
+| Back-end & APIs   | Node.js, Express, REST APIs, PostgreSQL/SQLite, Supabase |
+| Testing and Tooling | Git, GitHub, CI/CD (GitHub Actions), VS Code, Jira, Jest, Claude Code, Postman, Agile, Chrome DevTools, Android Studio, Slack Circuit |
 
 ---
 
 ## 🌍 Get Involved
 
-- ⚙️ Contribute to my projects or drop feedback via Issues & PRs
+- ⚙️ Drop feedback on my work via Issues & PRs
 - 💬 Find me at Orlando, FL dev meetups — let’s collaborate!
