@@ -15,6 +15,13 @@
 
 ## 📌 Featured Projects
 
+### 🎵 [Birthday Beats](https://github.com/tjohnson009/birthday-beats)
+
+Enter any birthdate back to 1958 and get that week's #1 Billboard Hot 100 song, with Spotify and YouTube players built in. Built with **TypeScript**, **Next.js**, and **React**. Its data pipelines cut Spotify search failures from 29 to 0 and moved every YouTube lookup offline. Can also be used to find #1 songs from any time.
+🔗 [Live demo](https://birthday-beats.vercel.app)
+
+---
+
 ### 🎯 [quoteme](https://github.com/tjohnson009/quoteme)
 A clean and minimalist quote saver that can also fetch quotes via API, perfect for a daily dose of inspiration.
 
