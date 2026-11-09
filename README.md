@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Tim 
 
-**Software Engineer* in **Orlando, FL**. Currently working for a non-profit developing a globally distributed CRM app, building real-world projects with TypeScript, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
+**Software Engineer** in **Orlando, FL**. Currently working for a non-profit developing a globally distributed CRM app, building real-world projects with TypeScript, and connecting with local tech communities, specifically OrlandoDevs and OrlandoJS.
 - 🔭 Full-stack development (TypeScript, Node.js, Express, React)
 - 💡 Solving everyday problems with creative tools, AI-empowered
 - 🌱 Building and developing impactful tools for myself and others
